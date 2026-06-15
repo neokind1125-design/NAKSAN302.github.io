@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Remix: Remix: Remix: Remix: 낙산관 방탈출",
+  "description": "나눠야 열린다. 서로가 본 것을 말해야 문이 열린다. 4인 비대칭 협동 방탈출 웹게임 프로토타입",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
